@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="160" viewBox="0 0 480 160" role="img" aria-label="NüBar Gestión logo">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#7a4d2b"/>
+      <stop offset="1" stop-color="#c79a58"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="160" rx="36" fill="#fff8ed"/>
+  <circle cx="76" cy="80" r="46" fill="url(#g)"/>
+  <path d="M57 103V57h10l25 28V57h12v46H94L69 75v28H57z" fill="#fff8ed"/>
+  <text x="142" y="83" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="800" fill="#3c2b20">NüBar</text>
+  <text x="146" y="116" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#7a4d2b">Gestión Interna</text>
+</svg>
